@@ -1,4 +1,4 @@
-package _04_control_statements._02_looping.patterns;
+package _04_control_statements._02_looping._01_for.patterns;
 
 public class Demo1 {
     public static void main(String[] args) {

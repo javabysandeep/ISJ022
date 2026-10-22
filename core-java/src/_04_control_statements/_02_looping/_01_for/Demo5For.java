@@ -1,4 +1,4 @@
-package _04_control_statements._02_looping;
+package _04_control_statements._02_looping._01_for;
 
 public class Demo5For {
     public static void main(String[] args) {
